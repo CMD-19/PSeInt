@@ -1,0 +1,13 @@
+Algoritmo practicaCondicionalSi
+	
+	//Llegar a un VERDADERO a través del código.
+	
+	Definir  bandera Como Logico;
+	
+	bandera <- NO(2 <= 1);
+	
+	Si bandera Entonces
+		Escribir "La condición es: ", bandera, " por lo tanto la ejecución entra en la estructura selectiva Si y ejecuta esta línea ";
+	Fin Si
+	
+FinAlgoritmo
